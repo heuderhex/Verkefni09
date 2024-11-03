@@ -1,3 +1,3 @@
-# Verkefni09 í Vefforritun 2024
+# Verkefni 9 í Vefforritun 2024
 
-Lausn verkefnis 09 í Vefforritun.
+Lausn verkefnis 9 í Vefforritun.
